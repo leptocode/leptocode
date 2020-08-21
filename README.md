@@ -1,4 +1,4 @@
-![gif from nerdy](https://github.com/argyleink/argyleink/blob/master/argyleink-sm2.gif?raw=true)
+![leptovideo](https://github.com/argyleink/argyleink/blob/master/argyleink-sm2.gif?raw=true)
 
 ### Hi there 👋
 
