@@ -1,4 +1,4 @@
-![leptocode video](https://github.com/argyleink/argyleink/blob/master/argyleink-sm3.gif?raw=true)
+![leptocode video](https://github.com/argyleink/argyleink/blob/master/argyleink.mp4?raw=true)
 
 ### Hi there 👋
 
