@@ -1,3 +1,5 @@
+![gif from nerdy.dev](https://github.com/argyleink/argyleink/blob/master/argyleink-sm2.gif?raw=true)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... educational apps with machine learning
